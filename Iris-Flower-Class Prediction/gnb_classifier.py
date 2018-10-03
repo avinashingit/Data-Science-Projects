@@ -1,4 +1,3 @@
-# For building the Gaussioan Naive Bayes classifier, Iris dataset from Scikit Learn is being used.
 from sklearn.datasets import load_iris
 
 
